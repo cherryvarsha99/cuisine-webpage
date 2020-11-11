@@ -28,7 +28,9 @@ attributeChangedCallback(name,oldValue,newValue)
 
 adoptedCallback()
 
+## commands required :
 
+customElements.define
 
 ## Contributor :
 
