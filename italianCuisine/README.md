@@ -49,8 +49,6 @@ https://github.com/shivani-ta
 
 ## Image credits
 
-[pasta](https://pinchofyum.com/5-ingredient-vegan-vodka-pasta)
-
 [https://www.google.com/search?q=best+italian+dishes&rlz=1C1GCEA_enUS914US915&sxsrf=ALeKk026itdtLypYiQ8K9jf4ArBJm564Uw:1605077601964&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjv5rSC9PnsAhWEtVkKHV0GCqMQ_AUoAXoECBQQAw&biw=1283&bih=577
 
 
