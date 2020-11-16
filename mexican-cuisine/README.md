@@ -48,8 +48,7 @@ The following lifecycle hooks are available:
 
 >[webComponents Examples](https://github.com/mdn/web-components-examples)
 
-### Link to my Project Demo:
-[mexican cuisine](http://127.0.0.1:5502/mexicanCuisine/mexican.html)
+
 
 ### Link to My Demo Video
 [Demo Explination](https://app.vidgrid.com/view/B4tBnnmzxwjZ)
