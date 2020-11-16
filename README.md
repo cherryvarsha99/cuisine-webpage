@@ -13,23 +13,23 @@ This allows us to create custom, reusable and encapsulated HTML tags to use in w
 
 ### Indian Cuisine:
 
-> Nithya Karepe will design web page about Indian Cuisine
+> Nithya Karepe designed web page about Indian Cuisine
 
 
 
 ### Mexican Cuisine:
 
-> Sai Varsha Vellanki will design web page about Mexican Cuisine
+> Sai Varsha Vellanki designed web page about Mexican Cuisine
 
 
 ### Italian Cuisine:
 
-> Shivani Tangellapally will design web page about Italian Cuisine
+> Shivani Tangellapally designed web page about Italian Cuisine
 
 
 ### Asian Cuisine:
 
-> Sri Vasavi Vipparla will design web page about Asian Cuisine
+> Sri Vasavi Vipparla designed web page about Asian Cuisine
 
 
 ## 
@@ -54,6 +54,8 @@ This allows us to create custom, reusable and encapsulated HTML tags to use in w
 
 
 >[webComponents Examples](https://github.com/mdn/web-components-examples)
+
+>[WebComponents basics](https://www.youtube.com/watch?v=_Tr9ZcXcMjQ&t=281s)
 
 
 
