@@ -8,7 +8,7 @@ web components are set of web platform  API's taht allows user to create   reusa
 
 ### INTRO:
 
-> This is Varsha Vellanki desined a simple html page with custom html elements and will explain why custom HTML elements and how to create them 
+> Hello My name  is Varsha Vellanki  ,I have desined a simple html page using  custom html elements and I have  explained why custom HTML elements and how to create them and how to extend them as HTML elemnts  using javaScript fucntions  and I hope  you all can create a custom HTML tag and implement some basic functions with this .
 
 
 
